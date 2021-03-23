@@ -38,6 +38,8 @@ python youtubedownloader.pyw
   <img src="/assets/3.png">
 </p>
 
+> Depending on your internet connection the video will get downloaded and there maybe instances that the Titlebar of the application window will display **Not Responding** but it is fine just wait for sometime and the application will be good to go.
+
 ## Support & Contributions
 - Please ⭐️ this repository if this project helped you!
 - Contributions of any kind welcome!
