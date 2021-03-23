@@ -25,7 +25,7 @@ $ pip3 install pytube
 python3 youtubedownloader.pyw 
 python youtubedownloader.pyw 
 
---note omly python3 will work 
+--note only python3 will work 
 ```
 ## images
 <p align="center">
