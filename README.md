@@ -29,12 +29,14 @@ python youtubedownloader.pyw
 ```
 ## images
 <p align="center">
-  <img src="/assets/">
+  <img src="/assets/1.png">
 </p>
 <p align="center">
-  <img src="/assets/">
+  <img src="/assets/2.png">
 </p>
-
+<p align="center">
+  <img src="/assets/3.png">
+</p>
 
 ## Support & Contributions
 - Please ⭐️ this repository if this project helped you!
